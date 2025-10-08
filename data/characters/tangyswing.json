@@ -8,27 +8,27 @@
   "animations": [
     {
       "name": "idle",
-      "prefix": "idle01",
+      "prefix": "idle0",
       "offsets": [-5, 0]
     },
     {
       "name": "singLEFT",
-      "prefix": "left01",
+      "prefix": "left0",
       "offsets": [12, -6]
     },
     {
       "name": "singDOWN",
-      "prefix": "down01",
+      "prefix": "down0",
       "offsets": [-10, -50]
     },
     {
       "name": "singUP",
-      "prefix": "up01",
+      "prefix": "up0",
       "offsets": [-29, 27]
     },
     {
       "name": "singRIGHT",
-      "prefix": "right01",
+      "prefix": "right0",
       "offsets": [-38, -7]
     },
     {
