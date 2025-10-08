@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "name": "Tangy Swing",
+  "renderType": "multisparrow",
+  "assetPath": "characters/Tangy Swing",
+  "flipX": true,
+  "singTime": 8.0,
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "idle01",
+      "offsets": [-5, 0]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "left01",
+      "offsets": [12, -6]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "down01",
+      "offsets": [-10, -50]
+    },
+    {
+      "name": "singUP",
+      "prefix": "up01",
+      "offsets": [-29, 27]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "right01",
+      "offsets": [-38, -7]
+    },
+    {
+    }
+  ]
+}
