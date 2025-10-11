@@ -41,6 +41,12 @@
       "name": "singRIGHT",
       "prefix": "right0",
       "offsets": [-38, -7]
+    },
+    {
+      "name": "hey",
+      "prefix": "hey0",
+      "assetPath": "characters/Tangy Swing", 
+      "offsets": [0, 0]
     }
   ]
 }
