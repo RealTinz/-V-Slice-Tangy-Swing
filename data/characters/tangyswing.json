@@ -18,35 +18,35 @@
   "assetPath": "characters/Tangy Swing",
   "animations": [
     {
-      "name": "idle",
-      "prefix": "idle0",
-      "offsets": [-5, 0]
+          "name": "idle",
+          "prefix": "idle0",
+          "offsets": [-5, 0]
     },
     {
-      "name": "singLEFT",
-      "prefix": "left0",
-      "offsets": [12, -6]
+          "name": "singLEFT",
+          "prefix": "left0",
+          "offsets": [12, -6]
     },
     {
-      "name": "singDOWN",
-      "prefix": "down0",
-      "offsets": [-10, -50]
+          "name": "singDOWN",
+          "prefix": "down0",
+          "offsets": [-10, -50]
     },
     {
-      "name": "singUP",
-      "prefix": "up0",
-      "offsets": [-29, 27]
+          "name": "singUP",
+          "prefix": "up0",
+          "offsets": [-29, 27]
     },
     {
-      "name": "singRIGHT",
-      "prefix": "right0",
-      "offsets": [-38, -7]
+          "name": "singRIGHT",
+          "prefix": "right0",
+          "offsets": [-38, -7]
     },
     {
-      "name": "hey",
-      "prefix": "hey0",
-      "assetPath": "characters/Tangy Swing", 
-      "offsets": [0, 0]
-      }
-   ]
-}
+          "name": "hey",
+          "prefix": "hey0",
+          "assetPath": "characters/Tangy Swing", 
+          "offsets": [0, 0]
+         }
+     ]
+ }
