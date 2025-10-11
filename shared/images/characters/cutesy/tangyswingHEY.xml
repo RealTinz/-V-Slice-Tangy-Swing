@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tangyswingHEY.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="hey060000" x="0" y="517" width="277" height="517" frameX="-67" frameY="2" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="hey070000" x="0" y="517" width="277" height="517" frameX="-67" frameY="2" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="hey030000" x="277" y="517" width="277" height="517" frameX="-67" frameY="2" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="hey020000" x="280" y="0" width="277" height="517" frameX="-67" frameY="2" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="hey010000" x="0" y="0" width="280" height="517" frameX="-67" frameY="2" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="hey040000" x="557" y="0" width="277" height="517" frameX="-67" frameY="2" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="hey050000" x="834" y="0" width="277" height="517" frameX="-67" frameY="2" frameWidth="361" frameHeight="516"/>
+</TextureAtlas>
