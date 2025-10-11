@@ -22,32 +22,38 @@
       "name": "idle",
       "prefix": "idle0",
       "offsets": [-5, 0]
+      "looped": true
     },
     {
       "name": "singLEFT",
       "prefix": "left0",
       "offsets": [12, -6]
+      "looped": false
     },
     {
       "name": "singDOWN",
       "prefix": "down0",
       "offsets": [-10, -50]
+      "looped": false
     },
     {
       "name": "singUP",
       "prefix": "up0",
       "offsets": [-29, 27]
+      "looped": false
     },
     {
       "name": "singRIGHT",
       "prefix": "right0",
       "offsets": [-38, -7]
+      "looped": false
     },
     {
       "name": "hey",
       "prefix": "hey0",
       "assetPath": "characters/cutesy/tangyswingHEY", 
       "offsets": [0, 0]
+      "looped": false
     }
   ]
 }
