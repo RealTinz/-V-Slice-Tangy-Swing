@@ -19,8 +19,9 @@
   "assetPath": "characters/Tangy Swing",
   "animations": [
     {
-      "name": "idle",
+      "flipY": false,
       "frameRate": 24,
+      "name": "idle",
       "prefix": "idle0",
       "offsets": [-5, 0]
       "looped": true
